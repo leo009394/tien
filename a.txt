@@ -6,4 +6,5 @@ d
 
 e
 
-server modified
+server modified // can not show diff when user pull source code from server
+
